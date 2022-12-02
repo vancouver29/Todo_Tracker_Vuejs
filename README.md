@@ -29,6 +29,9 @@ npm run build
      alt="About"
      style="float: left; margin-right: 10px;" />
 
+
+> **Note**
+>  Double Click on a Task to toggle the important task! 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Todo_Tracker_Vuejs
